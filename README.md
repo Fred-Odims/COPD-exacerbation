@@ -1,4 +1,5 @@
-Ugochukwu Fred Odimba
+* Ugochukwu Fred Odimba*
+  
 Project title:  Predicting COPD Exacerbations
 
 
