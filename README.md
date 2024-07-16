@@ -28,18 +28,18 @@ The analysis will be done in Python programming language and libraries such as P
 Variables in the dataset
 * sex				- Women & Men
 * age_cat2		- Age in three categories 
-bodycomp		- body composition was assessed with bioelectrical impedance measurements using a Bodystat 1500 to calculate fat mass index (FMI) and fat free mass index (FFMI). Cachexia was defined as having a FFMI < 14 kg/m2 in women and < 17 kg/m2 in men which corresponds to the lower 95% CI in a normal population (19). Similarly, obesity was defined as FMI > 13.5 kg/m2 in women and > 9.3 kg/m2 in men.
-smok_habits		- defined as never, ex, or current (daily)
-packyrs_10		- Pack years smoked (defined for ex and daily only) where 20 cigarettes/day for one year equals one pack year divided by ten for regression purposes 
-diabetes		- self-reported, and assessed with aid of medical journal by a physician l ( Yes vs No)
-statin			- self-reported, and assessed with aid of medical journal by a physician l (Yes vs No)
-ARB_ACE_all		- use of either AII blockers or angiotensin receptor blockers
-sign_CACS		- having a calcium score > 100 = "yes", else is "no"
-cor_stenosis	-  (Yes vs No) having significant stenosis on CT angiography assessed by one of two experienced cardiology radiologists. Confirmed coronary stenosis was defined as presence of stenosis (lumen reduction > 50%)
-COPD_control	- either COPD patient or control without lung disease
-gold			- In COPD patients either GOLD stage I/II or stage III/IV
-copd_exacerb_cat	- having had a moderate or serious COPD exacerbation the last 12 months or not. Serious = hospitalization, moderate = treatment with systemic antiobiotics and/or steroids (Yes vs No)	
-resp_failure	-	Having arterial blood gass oxygen tension (pO2) < 8 kPa = yes
-eosinophilic_COPD	- Having blood eosinophilia defined as ≥0.3*10^9 cells/L = yes
-wholelung950	- % lung area of density < 950 Hounsfield units
-crp_cat			- C-reactive protein below 5 or 5 and above (No vs Yes)
+* bodycomp		- body composition was assessed with bioelectrical impedance measurements using a Bodystat 1500 to calculate fat mass index (FMI) and fat free mass index (FFMI). Cachexia was defined as having a FFMI < 14 kg/m2 in women and < 17 kg/m2 in men which corresponds to the lower 95% CI in a normal population (19). Similarly, obesity was defined as FMI > 13.5 kg/m2 in women and > 9.3 kg/m2 in men.
+* smok_habits		- defined as never, ex, or current (daily)
+* packyrs_10		- Pack years smoked (defined for ex and daily only) where 20 cigarettes/day for one year equals one pack year divided by ten for regression purposes 
+* diabetes		- self-reported, and assessed with aid of medical journal by a physician l ( Yes vs No)
+* statin			- self-reported, and assessed with aid of medical journal by a physician l (Yes vs No)
+* ARB_ACE_all		- use of either AII blockers or angiotensin receptor blockers
+* sign_CACS		- having a calcium score > 100 = "yes", else is "no"
+* cor_stenosis	-  (Yes vs No) having significant stenosis on CT angiography assessed by one of two experienced cardiology radiologists. Confirmed coronary stenosis was defined as presence of stenosis (lumen reduction > 50%)
+* COPD_control	- either COPD patient or control without lung disease
+* gold			- In COPD patients either GOLD stage I/II or stage III/IV
+* copd_exacerb_cat	- having had a moderate or serious COPD exacerbation the last 12 months or not. Serious = hospitalization, moderate = treatment with systemic antiobiotics and/or steroids (Yes vs No)	
+* resp_failure	-	Having arterial blood gass oxygen tension (pO2) < 8 kPa = yes
+* eosinophilic_COPD	- Having blood eosinophilia defined as ≥0.3*10^9 cells/L = yes
+* wholelung950	- % lung area of density < 950 Hounsfield units
+* crp_cat			- C-reactive protein below 5 or 5 and above (No vs Yes)
