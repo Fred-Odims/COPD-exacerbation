@@ -26,8 +26,8 @@ However, the recall and the area under the ROC  will be the most important metri
 The analysis will be done in Python programming language and libraries such as Pandas, NumPy, Scikit-learn, Matplotlib, and Seaborn will be utilized.
 
 Variables in the dataset
-sex				- Women & Men
-age_cat2		- Age in three categories 
+* sex				- Women & Men
+* age_cat2		- Age in three categories 
 bodycomp		- body composition was assessed with bioelectrical impedance measurements using a Bodystat 1500 to calculate fat mass index (FMI) and fat free mass index (FFMI). Cachexia was defined as having a FFMI < 14 kg/m2 in women and < 17 kg/m2 in men which corresponds to the lower 95% CI in a normal population (19). Similarly, obesity was defined as FMI > 13.5 kg/m2 in women and > 9.3 kg/m2 in men.
 smok_habits		- defined as never, ex, or current (daily)
 packyrs_10		- Pack years smoked (defined for ex and daily only) where 20 cigarettes/day for one year equals one pack year divided by ten for regression purposes 
